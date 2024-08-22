@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.indus.training.ui.keywordscounteruserinterface","c":"KeyWordsCounterUserInterface","l":"KeyWordsCounterUserInterface()","u":"%3Cinit%3E()"},{"p":"com.indus.training.ui.keywordscounteruserinterface","c":"KeyWordsCounterUserInterface","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
